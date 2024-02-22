@@ -1,7 +1,8 @@
+
 - 👋 Hi, I’m @21-V73
-- 👀 I’m interested in Android development and machine learning
+- 👀 I’m interested in Android development and Web development
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on any android development project
+- 💞️ I’m looking to collaborate on any android and web development project
 - 📫 How to reach me Email victorgerry1@gmail.com
 
 <!---
